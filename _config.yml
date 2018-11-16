@@ -7,7 +7,7 @@
 
 # Site settings
 title: 小海的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: PHP and GO Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codingwa.github.io" # the base hostname & protocol for your site
 
